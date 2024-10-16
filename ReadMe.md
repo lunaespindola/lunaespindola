@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a software developer currently on my last semester of college<br>I have 3 years of knowledge on Python Scripting and 2 years on web development<br> I’m currently working on a Database with API on AWS for an easy web application to manage storage.<br><br>💬 Ask me about my dog!
+I am a software developer currently working in MUHAMI <br>I have 3 years of knowledge on Python Scripting and 2 years on web development<br><br><br>💬 Ask me about my dog!
 
 
 ## 🌐 Socials:
